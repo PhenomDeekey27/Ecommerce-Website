@@ -783,6 +783,7 @@ footer a
 .map iframe
 {
   width: 400px;
+  margin-left: 22px;
 }
 #form-details
 {
